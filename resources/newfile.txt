@@ -1,1 +1,7954 @@
-lorem 
+[
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "19"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "9"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "21"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "27"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "112"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "8"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "138"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "124"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "107"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "22"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": null,
+"Value": "6"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "219"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1115"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "176"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "13"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "2456"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "195"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "297"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "92"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "88"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "42"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "27"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "4"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "18"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "29"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "11"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "24"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "58"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "9"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "9"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "5"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "15"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "55"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "18"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "306"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "104"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "63"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "5"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "57"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "112"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "187"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "916"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "15"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "108"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "105"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "7"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "2248"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "146"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "371"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "19"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "21"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": null,
+"Value": "17"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "82"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "34"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "7"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "31"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "615"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "81"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "402"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "56"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "115"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "34"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "155"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "420"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "18"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "10"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "29"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "46"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "137"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "7"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "102"
+},
+{
+"Province": "Bagmati",
+"District": "303 RASUWA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "114"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "46"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "12"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "23"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "191"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "32"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "72"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "39"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "259"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "23"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "140"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "83"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "21"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "29"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "21"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "386"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "11"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "24"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "31"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "25"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "4"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": null,
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "168"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "18"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "39"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "187"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "219"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "112"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "6"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "5"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "15"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "54"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "37"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "29"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "11"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "32"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "334"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "35"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "7"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "24"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "29"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "42"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "41"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "264"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "57"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "29"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "48"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "14"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "89"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "36"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "82"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "83"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "24"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "26"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "60"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "11"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "6"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "35"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "21"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "43"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "11"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "20"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "192"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "79"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "76"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "21"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "37"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "38"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "7"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "127"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "155"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "10"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "63"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "32"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "25"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "22"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "36"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "21"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "11"
+},
+{
+"Province": "Gandaki",
+"District": "402 MANANG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "8"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "33"
+},
+{
+"Province": "Bagmati",
+"District": "303 RASUWA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "166"
+},
+{
+"Province": "Bagmati",
+"District": "303 RASUWA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "97"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "34"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "25"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "8"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "13"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "339"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "31"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "91"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "7"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "7"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "49"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "80+",
+"Value": "11"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": null,
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "183"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "263"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "63"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "32"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "18"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "20"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "62"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "13"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "419"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "80+",
+"Value": "66"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "40"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "22"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "106"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "522"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "25"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "360"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "18"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "220"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "86"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "99"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "72"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": null,
+"Value": "28"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "28"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "28"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "12"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "303 RASUWA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "10"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": null,
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "40"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "22"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "36"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "316"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "99"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "37"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "39"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "16"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "80+",
+"Value": "66"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "172"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "110"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "29"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "4"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "456"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "21"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "80+",
+"Value": "14"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "12"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "17"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "101"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "172"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "64"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "29"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "417"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "7"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "391"
+},
+{
+"Province": "Gandaki",
+"District": "402 MANANG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "278"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "135"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "56"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "15"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "12"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "23"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "149"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "551"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "15"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "108"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "10"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "135"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "28"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "39"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "114"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "26"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "31"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "11"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "34"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "29"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "76"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "26"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "94"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "15"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "61"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "303 RASUWA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "79"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "698"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "14"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "127"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "145"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "26"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "5"
+},
+{
+"Province": "Province 1",
+"District": "103 SOLUKHUMBU",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "6"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "96"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "59"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "170"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "41"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "11"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "192"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "168"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "37"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "28"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "20"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "56"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": null,
+"Value": "10"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "85"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "35"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "114"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "69"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "15"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "12"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "18"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "408"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "26"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "188"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "43"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "204"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "82"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "88"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "43"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "217"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "19"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": null,
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "10"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "35"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "12"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "20"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "29"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "30"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "7"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "10"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "24"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "107"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "93"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "28"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "63"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "392"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "18"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "40"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "61"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "38"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "23"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "17"
+},
+{
+"Province": "Province 1",
+"District": "103 SOLUKHUMBU",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "101"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "128"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "29"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "17"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": null,
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "12"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "13"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "40"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "81"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "231"
+},
+{
+"Province": "Province 1",
+"District": "103 SOLUKHUMBU",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "80"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "7"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "11"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "290"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "25"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "46"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "8"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "4"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "268"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "52"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "14"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "72"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "93"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "66"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "93"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "29"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "74"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "25"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "28"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "8"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "56"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "28"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "12"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "49"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "259"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "40"
+},
+{
+"Province": "Karnali",
+"District": "603 HUMLA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "15"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "86"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "56"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "7"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "246"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "103 SOLUKHUMBU",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "154"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "17"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "6"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "27"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "41"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "192"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "58"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "80+",
+"Value": "10"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "17"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "95"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "163"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "55"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "24"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "78"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "177"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "26"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "203"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "12"
+},
+{
+"Province": "Karnali",
+"District": "601 DOLPA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "108"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "368"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "10"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "30"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "58"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "7"
+},
+{
+"Province": "Gandaki",
+"District": "404 MYAGDI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "17"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "51"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "246"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "30"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "181"
+},
+{
+"Province": "Province 1",
+"District": "101 TAPLEJUNG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "152"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "4"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "33"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "26"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "153"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "14"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "19"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "10"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "5"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "8"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "130"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "24"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "15"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "25"
+},
+{
+"Province": "Karnali",
+"District": "603 HUMLA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "139"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "25"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "28"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "42"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "10"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "8"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "4"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "246"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "20"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "184"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": null,
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "26"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "22"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Karnali",
+"District": "603 HUMLA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "60"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "8"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "99"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "20"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "5"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "80+",
+"Value": "13"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "85"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "14"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "51"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "24"
+},
+{
+"Province": "Karnali",
+"District": "601 DOLPA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "43"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": null,
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "82"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "20"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "14"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "63"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "14"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "83"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "314"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "59"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "47"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "52"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "31"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "157"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "13"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "6"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "74"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "28"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "57"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "298"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "25"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "90"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "12"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "34"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "24"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "40"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "124"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "61"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": null,
+"Value": "30"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": null,
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "62"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "12"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "44"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "49"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "39"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "30"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "24"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "51"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "146"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": null,
+"Value": "12"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "66"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "51"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "46"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "15"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "34"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": null,
+"Value": "31"
+},
+{
+"Province": "Province 1",
+"District": "105 KHOTANG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Karnali",
+"District": "605 KALIKOT",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "153"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "31"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "306"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "35"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "7"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "28"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "23"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "229"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "74"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "72"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "136"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "39"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "29"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "477"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "129"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "17"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "30"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "15"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "11"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "154"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": null,
+"Value": "7"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "14"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "12"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "79"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "45"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": null,
+"Value": "46"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "10"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "46"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "108 TERHATHUM",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "292"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "15"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "79"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "131"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "100"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "281"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "205"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "1223"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "83"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "51"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "10"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "6"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "140"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "26"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "51"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "91"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "7"
+},
+{
+"Province": "Province 1",
+"District": "106 BHOJPUR",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "292"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "69"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "13"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "14"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "30"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "16"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "211"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "80+",
+"Value": "8"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "14"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "31"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "63"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "610 SURKHET",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": null,
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "16"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "24"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "13"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "199"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "23"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "8"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "15"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "170"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "26"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "52"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "33"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "22"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "7"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "579"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "89"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "14"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "233"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "24"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "80+",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "97"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": null,
+"Value": "7"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "31"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "71"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "54"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "56"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "7"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "9"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "12"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "6"
+},
+{
+"Province": "Province 1",
+"District": "113 SUNSARI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "7"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "9"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "69"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "14"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "704 BAITADI",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "11"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "20"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "11"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "203 DHANUSA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "21"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "417"
+},
+{
+"Province": "Sudurpaschim",
+"District": "703 DARCHULA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "21"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "57"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "14"
+},
+{
+"Province": "Sudurpaschim",
+"District": "702 BAJHANG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "42"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "44"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "172"
+},
+{
+"Province": "Province 5",
+"District": "511 BANKE",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "4"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "123"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "18"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "52"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "47"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "26"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "61"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "710"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "7"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "31"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "48"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "6"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "44"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "294"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "13"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "7"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "20"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "152"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "301 DOLAKHA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "32"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "14"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "709 KANCHANPUR",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "608 RUKUM WEST",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "71"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "32"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "38"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "30"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "59"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "5"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "39"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "166"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "6"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "33"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "18"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "21"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "97"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "5"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "48"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "27"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "9"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "8"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "41"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "249"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "10"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "25"
+},
+{
+"Province": "Province 5",
+"District": "501 RUKUM EAST",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "42"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "12"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "72"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "17"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "151"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Female",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Male",
+"Age": "80+",
+"Value": "4"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "5"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "26"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "10"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "17"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "114 UDAYAPUR",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "219"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Female",
+"Age": null,
+"Value": "29"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "543"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Female",
+"Age": null,
+"Value": "7"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "19"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "405"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "708 KAILALI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Gandaki",
+"District": "406 LAMJUNG",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "110 ILAM",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "23"
+},
+{
+"Province": "Province 2",
+"District": "207 BARA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "42"
+},
+{
+"Province": "Sudurpaschim",
+"District": "706 DOTI",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "602 MUGU",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "206 RAUTAHAT",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "45"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "17"
+},
+{
+"Province": "Gandaki",
+"District": "409 SYANGJA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "3"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "92"
+},
+{
+"Province": "Province 2",
+"District": "204 MAHOTTARI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "451"
+},
+{
+"Province": "Karnali",
+"District": "604 JUMLA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "4"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "96"
+},
+{
+"Province": "Province 5",
+"District": "502 ROLPA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "4"
+},
+{
+"Province": "Bagmati",
+"District": "310 RAMECHHAP",
+"Sex": "Female",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "30"
+},
+{
+"Province": "Bagmati",
+"District": "307 BHAKTAPUR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "32"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "6"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "120"
+},
+{
+"Province": "Province 2",
+"District": "202 SIRAHA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "3"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "32"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "4"
+},
+{
+"Province": "Province 1",
+"District": "107 DHANKUTA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "512 BARDIYA",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "66"
+},
+{
+"Province": "Gandaki",
+"District": "407 TANAHU",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "18"
+},
+{
+"Province": "Province 1",
+"District": "102 SANKHUWASABHA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "13"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "48"
+},
+{
+"Province": "Province 5",
+"District": "503 PYUTHAN",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "10"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "8"
+},
+{
+"Province": "Bagmati",
+"District": "313 CHITAWAN",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "36"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "43"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "83"
+},
+{
+"Province": "Karnali",
+"District": "603 HUMLA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Gandaki",
+"District": "408 NAWALPARASI EAST",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "19"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "30"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": null,
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "707 ACHHAM",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "16"
+},
+{
+"Province": "Gandaki",
+"District": "410 PARBAT",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "26"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "22"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "5"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "267"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "23"
+},
+{
+"Province": "Province 5",
+"District": "510 DANG",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "99"
+},
+{
+"Province": "Bagmati",
+"District": "311 SINDHULI",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "1"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "41"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "329"
+},
+{
+"Province": "Gandaki",
+"District": "405 KASKI",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "5"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "135"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "47"
+},
+{
+"Province": "Bagmati",
+"District": "302 SINDHUPALCHOK",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "506 PALPA",
+"Sex": "Male",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Province 5",
+"District": "508 RUPANDEHI",
+"Sex": "Male",
+"Age": null,
+"Value": "11"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "121"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Male",
+"Age": "41 - 50",
+"Value": "48"
+},
+{
+"Province": "Bagmati",
+"District": "306 KATHMANDU",
+"Sex": "Male",
+"Age": null,
+"Value": "56"
+},
+{
+"Province": "Province 5",
+"District": "507 NAWALPARASI WEST",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "18"
+},
+{
+"Province": "Bagmati",
+"District": "305 NUWAKOT",
+"Sex": "Female",
+"Age": "41 - 50",
+"Value": "3"
+},
+{
+"Province": "Karnali",
+"District": "609 SALYAN",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "5"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "43"
+},
+{
+"Province": "Gandaki",
+"District": "411 BAGLUNG",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "5"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "18"
+},
+{
+"Province": "Bagmati",
+"District": "309 KAVREPALANCHOK",
+"Sex": "Female",
+"Age": "80+",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "308 LALITPUR",
+"Sex": "Male",
+"Age": null,
+"Value": "1"
+},
+{
+"Province": "Province 2",
+"District": "208 PARSA",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "541"
+},
+{
+"Province": "Karnali",
+"District": "601 DOLPA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "21"
+},
+{
+"Province": "Gandaki",
+"District": "403 MUSTANG",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "21 - 30",
+"Value": "20"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Male",
+"Age": "71 - 80",
+"Value": "11"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "16"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Female",
+"Age": "31 - 40",
+"Value": "2"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Male",
+"Age": "0 - 10",
+"Value": "23"
+},
+{
+"Province": "Province 1",
+"District": "109 PANCHTHAR",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "1"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Male",
+"Age": "51 - 60",
+"Value": "19"
+},
+{
+"Province": "Bagmati",
+"District": "304 DHADING",
+"Sex": "Male",
+"Age": "80+",
+"Value": "1"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "6"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Female",
+"Age": "80+",
+"Value": "6"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "66"
+},
+{
+"Province": "Sudurpaschim",
+"District": "701 BAJURA",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "1"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "40"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "84"
+},
+{
+"Province": "Province 5",
+"District": "505 ARGHAKHANCHI",
+"Sex": "Female",
+"Age": "11 - 20",
+"Value": "12"
+},
+{
+"Province": "Province 1",
+"District": "104 OKHALDHUNGA",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "2"
+},
+{
+"Province": "Province 2",
+"District": "205 SARLAHI",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "471"
+},
+{
+"Province": "Karnali",
+"District": "606 DAILEKH",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "215"
+},
+{
+"Province": "Province 2",
+"District": "201 SAPTARI",
+"Sex": "Female",
+"Age": "61 - 70",
+"Value": "8"
+},
+{
+"Province": "Province 5",
+"District": "504 GULMI",
+"Sex": "Male",
+"Age": "61 - 70",
+"Value": "10"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "8"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Male",
+"Age": "31 - 40",
+"Value": "21"
+},
+{
+"Province": "Province 1",
+"District": "111 JHAPA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "75"
+},
+{
+"Province": "Province 5",
+"District": "509 KAPILBASTU",
+"Sex": "Female",
+"Age": "71 - 80",
+"Value": "5"
+},
+{
+"Province": "Karnali",
+"District": "607 JAJARKOT",
+"Sex": "Female",
+"Age": "21 - 30",
+"Value": "10"
+},
+{
+"Province": "Gandaki",
+"District": "401 GORKHA",
+"Sex": "Female",
+"Age": "51 - 60",
+"Value": "6"
+},
+{
+"Province": "Bagmati",
+"District": "312 MAKWANPUR",
+"Sex": "Female",
+"Age": "0 - 10",
+"Value": "13"
+},
+{
+"Province": "Province 1",
+"District": "112 MORANG",
+"Sex": "Male",
+"Age": "80+",
+"Value": "10"
+},
+{
+"Province": "Sudurpaschim",
+"District": "705 DADELDHURA",
+"Sex": "Male",
+"Age": "11 - 20",
+"Value": "36"
+}
+] 
